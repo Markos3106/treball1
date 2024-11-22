@@ -32,4 +32,6 @@ while intercanvi:
          
 	n = n - 1 # optimització
 
+# gran print
+# C:
 print(participants)
